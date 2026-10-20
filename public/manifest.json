@@ -1,0 +1,10 @@
+{
+  "name": "CurrículoIA Pro — Gerador de Currículos e Carta com IA",
+  "short_name": "CurrículoIA",
+  "description": "Gere currículos otimizados para ATS e cartas de apresentação em PDF com Inteligência Artificial.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait-primary"
+}
